@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Calculus-1/static/css/main.375d7ac1.css",
-    "main.js": "/Calculus-1/static/js/main.71a07ac6.js",
-    "static/js/453.e0be47af.chunk.js": "/Calculus-1/static/js/453.e0be47af.chunk.js",
-    "index.html": "/Calculus-1/index.html",
-    "main.375d7ac1.css.map": "/Calculus-1/static/css/main.375d7ac1.css.map",
-    "main.71a07ac6.js.map": "/Calculus-1/static/js/main.71a07ac6.js.map",
-    "453.e0be47af.chunk.js.map": "/Calculus-1/static/js/453.e0be47af.chunk.js.map"
+    "main.css": "/Calculus-1/tangent-velocity-calculator/static/css/main.375d7ac1.css",
+    "main.js": "/Calculus-1/tangent-velocity-calculator/static/js/main.ab2a8397.js",
+    "static/js/453.e0be47af.chunk.js": "/Calculus-1/tangent-velocity-calculator/static/js/453.e0be47af.chunk.js",
+    "index.html": "/Calculus-1/tangent-velocity-calculator/index.html",
+    "main.375d7ac1.css.map": "/Calculus-1/tangent-velocity-calculator/static/css/main.375d7ac1.css.map",
+    "main.ab2a8397.js.map": "/Calculus-1/tangent-velocity-calculator/static/js/main.ab2a8397.js.map",
+    "453.e0be47af.chunk.js.map": "/Calculus-1/tangent-velocity-calculator/static/js/453.e0be47af.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.375d7ac1.css",
-    "static/js/main.71a07ac6.js"
+    "static/js/main.ab2a8397.js"
   ]
 }
