@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Calculus-1/static/css/main.375d7ac1.css",
+    "main.js": "/Calculus-1/static/js/main.71a07ac6.js",
+    "static/js/453.e0be47af.chunk.js": "/Calculus-1/static/js/453.e0be47af.chunk.js",
+    "index.html": "/Calculus-1/index.html",
+    "main.375d7ac1.css.map": "/Calculus-1/static/css/main.375d7ac1.css.map",
+    "main.71a07ac6.js.map": "/Calculus-1/static/js/main.71a07ac6.js.map",
+    "453.e0be47af.chunk.js.map": "/Calculus-1/static/js/453.e0be47af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.375d7ac1.css",
+    "static/js/main.71a07ac6.js"
+  ]
+}
