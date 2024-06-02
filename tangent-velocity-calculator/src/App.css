@@ -1,0 +1,28 @@
+body {
+  background-color: #f8f9fa;
+}
+
+h1 {
+  font-family: 'Arial', sans-serif;
+  color: #343a40;
+}
+
+input,
+button,
+.card {
+  border-radius: 8px;
+}
+
+.card {
+  background-color: rgba(255, 255, 255, 0.8);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
